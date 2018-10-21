@@ -1,0 +1,27 @@
+/* label color */
+.e-input-field label {
+color: #000;
+}
+/* label focus color */
+.e-input-field input[type=text]:focus + label,.e-input-field input[type=date]:focus + label,.e-input-field input[type=password]:focus + label {
+color: #d32f2f !important;
+}
+/* label underline focus color */
+.e-input-field input[type=text]:focus,.e-input-field input[type=date]:focus,.e-input-field input[type=password]:focus {
+border-bottom: 1px solid #d32f2f !important;
+box-shadow: 0 1px 0 0 #d32f2f !important;
+}
+/* valid color */
+.e-input-field input[type=text].valid,.e-input-field input[type=date].valid,.e-input-field input[type=password].valid {
+border-bottom: 1px solid #d32f2f !important;
+box-shadow: 0 1px 0 0 #d32f2f !important;
+}
+/* invalid color */
+.e-input-field input[type=text].invalid,.e-input-field input[type=date].invalid,.e-input-field input[type=password].invalid {
+border-bottom: 1px solid #d32f2f !important;
+box-shadow: 0 1px 0 0 #d32f2f !important;
+}
+/* icon prefix focus color */
+.e-input-field .prefix.active {
+color: #d32f2f !important;
+}

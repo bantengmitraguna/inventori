@@ -1,0 +1,36 @@
+Inventori v1.1
+
+Login User : 
+Admin|Admin
+Member|Member
+
+Fitur Admin :
+- Input Barang Masuk ( Insert, Edit And Delete ) 
+- Input Barang Keluar
+- Create User ( Edit, Delete And Edit Password User )
+
+Fitur Member :
+- Input Barang Masuk ( Insert Data ) 
+- Input Barang Keluar
+- View User
+
+Fitur Lain :
+- Tombol Search Berdasarkan Semua Kategori
+- Print Out Laporan Barang Keluar Via Excel
+- Tampilan Lebih Simple Dari Versi Sebelumnya
+- Hak Akses Berbeda ( Admin Dan Member )
+- PHP Native
+- Mungkin Gak Responsive 100% Untuk Android
+
+Untuk Pengaturan Database Silahkan Baca File >> READ ME.bat  <<
+Nama Database : inventori.sql
+
+Special Thanks To :
+- Allah SWT
+- My Parents
+
+Contact Person :
+083871384653
+
+Group Whatsapp :
+https://chat.whatsapp.com/5uI4BsmuEtd63Ykz0sPDc8
