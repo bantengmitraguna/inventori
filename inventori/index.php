@@ -36,14 +36,14 @@
 					<div class="col s12 m12 l12 input-field e-input-field">
 						<i class="material-icons prefix">account_circle</i>
 						<input type="text" name="username" id="icon_nama" class="validate">
-						<label for="icon_nama">Nama Pengguna</label>
+						<label for="icon_nama">Username</label>
 					</div>
 
 					<!--input text password-->
 					<div class="col s12 m12 l12 input-field e-input-field">
 						<i class="material-icons prefix">lock</i>
 						<input type="password" name="password" id="icon_sandi" class="validate">
-						<label for="icon_sandi">Kata Sandi</label>
+						<label for="icon_sandi">Password</label>
 					</div>
 
 					<!--Button-->
